@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+.footer{
+    background-color: rgb(206, 194, 194);
+    width: 100%;
+    height: 60vh;
+    padding-top: 10%;
+    /* display: flex;
+    justify-content: center; */
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+input{
+    height: 30px;
+}
+button{
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+small{
+    color:rgb(102, 93, 93);
+    font-size: 90%;
+}
+.icons{
+    background-color:rgb(206, 194, 194);
+    width: 30%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.icon0{
+    width: 20%;
+    height: 56;
+    margin-top: 09px;
+}
+.icon2{
+    width: 20%;
+    height:  56;
+    margin-top: 09px;
+}
+.icon3{
+    width: 20%;
+    height:  56;
+    margin-top: 09px;
+}
+img{
+    border-radius: 50%;
+}
+.heading{
+    width: 30%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+}
+.head
+{ 
+    width: 40%;
+    height:  56;
+}
+.head2{
+    width: 5%;
+    height: 56;
+}
+.foot{
+    background-color: white;
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    justify-content:center;
+    gap: 5%;
+    padding-top: 20px ;
+    text-decoration: overline; 
+}
+a{
+    text-decoration: none;
+}
