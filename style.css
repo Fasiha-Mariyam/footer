@@ -1,11 +1,10 @@
-body{
-    background-color: black;
-}
+
 .footer{
     background-color: rgb(206, 194, 194);
     width: 100%;
     height: 60vh;
     padding-top: 10%;
+    margin-top: 10%;
     /* display: flex;
     justify-content: center; */
 }
@@ -78,4 +77,27 @@ img{
 }
 a{
     text-decoration: none;
+}
+.us{
+margin-top: 6%;
+font-size: x-large;
+text-decoration: overline;
+}
+.inputdet{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+textarea{
+    margin-top: 5%;
+}
+.pp{
+    margin-top: 6%;
+    font-size: x-large;
+    text-decoration:overline;
+}
+.rr{
+    margin-top: 6%;
+    font-size: x-large;
+    text-decoration: overline;
 }
